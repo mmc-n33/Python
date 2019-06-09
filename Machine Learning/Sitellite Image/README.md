@@ -2,7 +2,7 @@
 > :innocent::no_entry_sign::game_die:
 
 <br></br><p align="center">
-<img src="ship_identification_1968.png" width="700" height="500" />
+<img src="ship_identification_1968.png" width="500" height="400" />
 <br></br></p>
 
 <p align="center">:eyes::microphone:🏹💺:syringe:🗿:mens:</p>
