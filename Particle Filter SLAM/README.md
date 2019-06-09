@@ -1,9 +1,9 @@
 ### Particle Filter + Grid Map + Texturing
 > :innocent::no_entry_sign::game_die:
 
-<br></br>
-<img src="ezgif.com-gif-maker.gif" width="1400" height="400" />
-<br></br>
+<br></br><p align="center">
+<img src="ezgif.com-gif-maker.gif" width="700" height="600" />
+<br></br></p>
 
 <p align="center">:eyes::microphone:🏹💺:syringe:🗿:mens:</p>
 <p align="right">n33 :ox::beer:<br />2019.6.8</p>
