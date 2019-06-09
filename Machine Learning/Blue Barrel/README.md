@@ -2,7 +2,7 @@
 > :innocent::no_entry_sign::game_die:
 
 <br></br><p align="center">
-<img src="8left.jpg" width="700" height="600" />
+<img src="8left.jpg" width="700" height="500" />
 <br></br></p>
 
 <p align="center">:eyes::microphone:🏹💺:syringe:🗿:mens:</p>
